@@ -3,3 +3,8 @@
 ################################################################################
 
 /SaleDrink.ApplicationAPI/aleDrink.ApplicationAPI.Persistence/obj
+/SaleDrink.ApplicationAPI/SaleDrink.ApplicationAPI.Application/obj
+/SaleDrink.ApplicationAPI/SaleDrink.ApplicationAPI.Common/obj
+/SaleDrink.ApplicationAPI/SaleDrink.ApplicationAPI.Domain/obj
+/SaleDrink.ApplicationAPI/SaleDrink.ApplicationAPI.Infrastructure/obj
+/SaleDrink.ApplicationAPI/SaleDrink.ApplicationAPI.WebAPI/obj
