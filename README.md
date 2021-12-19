@@ -16,4 +16,3 @@ https://localhost:3000/Managment/{key} - страница администрир
 
 Запуск SaleDrink.ApplicationAPI
 1. Запуск осущевстляется из visualStudio
-2. 
